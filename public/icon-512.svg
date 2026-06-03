@@ -1,0 +1,56 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="72" fill="#000c1a"/>
+
+  <!-- stride=73, block=69, start=37 -->
+  <!-- col: 37,110,183,256,329,402  row: 37,110,183,256,329,402 -->
+
+  <!-- I piece (cyan) — row2, cols 0-3 -->
+  <rect x="37" y="183" width="69" height="69" rx="10" fill="#00e8e8" stroke="#80ffff" stroke-width="3"/>
+  <rect x="40" y="187" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="110" y="183" width="69" height="69" rx="10" fill="#00e8e8" stroke="#80ffff" stroke-width="3"/>
+  <rect x="113" y="187" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="183" y="183" width="69" height="69" rx="10" fill="#00e8e8" stroke="#80ffff" stroke-width="3"/>
+  <rect x="186" y="187" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="256" y="183" width="69" height="69" rx="10" fill="#00e8e8" stroke="#80ffff" stroke-width="3"/>
+  <rect x="259" y="187" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+
+  <!-- T piece (purple) — row3 cols1-3, row4 col2 -->
+  <rect x="110" y="256" width="69" height="69" rx="10" fill="#c000f0" stroke="#e080ff" stroke-width="3"/>
+  <rect x="113" y="260" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="183" y="256" width="69" height="69" rx="10" fill="#c000f0" stroke="#e080ff" stroke-width="3"/>
+  <rect x="186" y="260" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="256" y="256" width="69" height="69" rx="10" fill="#c000f0" stroke="#e080ff" stroke-width="3"/>
+  <rect x="259" y="260" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="183" y="329" width="69" height="69" rx="10" fill="#c000f0" stroke="#e080ff" stroke-width="3"/>
+  <rect x="186" y="333" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+
+  <!-- S piece (green) — row3 cols4-5, row4 cols3-4 -->
+  <rect x="329" y="256" width="69" height="69" rx="10" fill="#00f060" stroke="#80ffb0" stroke-width="3"/>
+  <rect x="332" y="260" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="402" y="256" width="69" height="69" rx="10" fill="#00f060" stroke="#80ffb0" stroke-width="3"/>
+  <rect x="405" y="260" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="256" y="329" width="69" height="69" rx="10" fill="#00f060" stroke="#80ffb0" stroke-width="3"/>
+  <rect x="259" y="333" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="329" y="329" width="69" height="69" rx="10" fill="#00f060" stroke="#80ffb0" stroke-width="3"/>
+  <rect x="332" y="333" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+
+  <!-- L piece (orange) — row4 col0, row5 cols0-2 -->
+  <rect x="37" y="329" width="69" height="69" rx="10" fill="#f08000" stroke="#ffcc60" stroke-width="3"/>
+  <rect x="40" y="333" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="37" y="402" width="69" height="69" rx="10" fill="#f08000" stroke="#ffcc60" stroke-width="3"/>
+  <rect x="40" y="406" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="110" y="402" width="69" height="69" rx="10" fill="#f08000" stroke="#ffcc60" stroke-width="3"/>
+  <rect x="113" y="406" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="183" y="402" width="69" height="69" rx="10" fill="#f08000" stroke="#ffcc60" stroke-width="3"/>
+  <rect x="186" y="406" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+
+  <!-- J piece (blue) — row4 col5, row5 cols3-5 -->
+  <rect x="402" y="329" width="69" height="69" rx="10" fill="#0080f0" stroke="#60c0ff" stroke-width="3"/>
+  <rect x="405" y="333" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="256" y="402" width="69" height="69" rx="10" fill="#0080f0" stroke="#60c0ff" stroke-width="3"/>
+  <rect x="259" y="406" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="329" y="402" width="69" height="69" rx="10" fill="#0080f0" stroke="#60c0ff" stroke-width="3"/>
+  <rect x="332" y="406" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="402" y="402" width="69" height="69" rx="10" fill="#0080f0" stroke="#60c0ff" stroke-width="3"/>
+  <rect x="405" y="406" width="32" height="13" rx="5" fill="rgba(255,255,255,0.3)"/>
+</svg>
