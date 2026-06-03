@@ -1,0 +1,36 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="26" fill="#000c1a"/>
+
+  <!-- stride=26, block=22, start=12 -->
+  <!-- cols: 12,38,64,90,116,142  rows: 12,38,64,90,116,142 -->
+
+  <!-- I piece (cyan) — row2, cols 0-3 -->
+  <rect x="12" y="64" width="22" height="22" rx="3" fill="#00e8e8" stroke="#80ffff" stroke-width="1"/>
+  <rect x="38" y="64" width="22" height="22" rx="3" fill="#00e8e8" stroke="#80ffff" stroke-width="1"/>
+  <rect x="64" y="64" width="22" height="22" rx="3" fill="#00e8e8" stroke="#80ffff" stroke-width="1"/>
+  <rect x="90" y="64" width="22" height="22" rx="3" fill="#00e8e8" stroke="#80ffff" stroke-width="1"/>
+
+  <!-- T piece (purple) — row3 cols1-3, row4 col2 -->
+  <rect x="38" y="90" width="22" height="22" rx="3" fill="#c000f0" stroke="#e080ff" stroke-width="1"/>
+  <rect x="64" y="90" width="22" height="22" rx="3" fill="#c000f0" stroke="#e080ff" stroke-width="1"/>
+  <rect x="90" y="90" width="22" height="22" rx="3" fill="#c000f0" stroke="#e080ff" stroke-width="1"/>
+  <rect x="64" y="116" width="22" height="22" rx="3" fill="#c000f0" stroke="#e080ff" stroke-width="1"/>
+
+  <!-- S piece (green) — row3 cols4-5, row4 cols3-4 -->
+  <rect x="116" y="90" width="22" height="22" rx="3" fill="#00f060" stroke="#80ffb0" stroke-width="1"/>
+  <rect x="142" y="90" width="22" height="22" rx="3" fill="#00f060" stroke="#80ffb0" stroke-width="1"/>
+  <rect x="90" y="116" width="22" height="22" rx="3" fill="#00f060" stroke="#80ffb0" stroke-width="1"/>
+  <rect x="116" y="116" width="22" height="22" rx="3" fill="#00f060" stroke="#80ffb0" stroke-width="1"/>
+
+  <!-- L piece (orange) — row4 col0, row5 cols0-2 -->
+  <rect x="12" y="116" width="22" height="22" rx="3" fill="#f08000" stroke="#ffcc60" stroke-width="1"/>
+  <rect x="12" y="142" width="22" height="22" rx="3" fill="#f08000" stroke="#ffcc60" stroke-width="1"/>
+  <rect x="38" y="142" width="22" height="22" rx="3" fill="#f08000" stroke="#ffcc60" stroke-width="1"/>
+  <rect x="64" y="142" width="22" height="22" rx="3" fill="#f08000" stroke="#ffcc60" stroke-width="1"/>
+
+  <!-- J piece (blue) — row4 col5, row5 cols3-5 -->
+  <rect x="142" y="116" width="22" height="22" rx="3" fill="#0080f0" stroke="#60c0ff" stroke-width="1"/>
+  <rect x="90" y="142" width="22" height="22" rx="3" fill="#0080f0" stroke="#60c0ff" stroke-width="1"/>
+  <rect x="116" y="142" width="22" height="22" rx="3" fill="#0080f0" stroke="#60c0ff" stroke-width="1"/>
+  <rect x="142" y="142" width="22" height="22" rx="3" fill="#0080f0" stroke="#60c0ff" stroke-width="1"/>
+</svg>
